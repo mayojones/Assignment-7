@@ -1,0 +1,86 @@
+.navbar {
+    position: fixed;
+  }
+
+  .bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+  }
+
+.container {
+    margin-top: auto;
+    position: fixed;
+    z-index: 5;
+}
+
+#title {
+    background-color: white;
+    width: 390px;
+    position: relative;
+
+}
+
+h1 {
+    width: 390px;
+    padding-left: 8%;
+    margin-top: -10%;
+    padding-top: 3%;
+    margin-bottom: -10%;
+    margin-right: 50%;
+    background-color: white;
+
+    font-family: fira-sans,sans-serif;
+    font-weight: 100;
+    font-style: normal;
+
+}
+
+h2 {
+    width: 390px;
+    padding-left: 8%;
+    padding-bottom: 4%;
+    margin-right: 50%;
+    background-color: white;
+
+    font-family: fira-sans-2,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 50%;
+}
+
+h3 {
+    width: 390px;
+    padding-left: 8%;
+    padding-bottom: 4%;
+    margin-right: 50%;
+    background-color: white;
+    margin-top: -2%;
+
+    font-family: fira-sans-2,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 10%;
+}
+
+#text {
+    width: 390px;
+    padding-left: 8%;
+    padding-right: 6%;
+    padding-bottom: 10%;
+    margin-right: 50%;
+    background-color: white;
+
+    font-family: fira-sans-2,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.circle {
+padding: 20%;
+
+}
+
+#image {
+max-width: 50%;
+
+}
